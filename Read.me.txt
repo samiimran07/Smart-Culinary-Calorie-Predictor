@@ -1,0 +1,28 @@
+Smart Culinary Calorie Predictor:
+
+                     🍳An Artificial Intelligence based system designed to predict food calories based on macronutrients and cooking methods1111. This project utilizes classical Machine Learning algorithms to provide a lightweight and fast solution for nutritional tracking22222.
+
+🚀 Overview:
+           The Smart Culinary Calorie Predictor bridges the gap between complex nutritional data and user-friendly dietary management3. Unlike heavy Deep Learning models, this tool is designed to run efficiently on low-resource devices while maintaining high accuracy444444444.
+
+Key Features: 
+             Accurate Prediction: Predicts caloric content using advanced regression algorithms5.
+Caloric Density Classification: Categorizes food into Low, Medium, and High calorie classes666666666.+2User-Friendly GUI: Interactive interface for real-time interaction and instant results777777777.+2Cooking Method Integration: Adjusts calorie predictions based on the selected cooking method (e.g., Steam, Boil, Fry)888888888.+
+
+
+📊 Model Performance:
+                     The project compares multiple Machine Learning models, with Random Forest achieving the highest performance9999999:
+ModelMAERMSER2
+ ScoreRandom Forest4.26.80.98
+ 10Decision Tree8.514.10.93 
+Linear Regression12.418.20.89 12
+
+
+🛠️ Tools & TechnologiesLanguage: Python 3.9 13Libraries: Scikit-learn, Pandas, Matplotlib 14GUI Framework: Streamlit / Tkinter 15Dataset: USDA National Nutrient Database (SR Legacy) 161616161616161616+2📂 Project 
+
+StructureCode/:
+ Python scripts for model training and GUI.Dataset/: Cleaned USDA nutrient data17171717.+1Presentation/: Project documentation and reports18.
+
+👥 Authors:
+Muhammad Sami Imran - Bahria University 
+Naqeebullah Khan - Bahria University
